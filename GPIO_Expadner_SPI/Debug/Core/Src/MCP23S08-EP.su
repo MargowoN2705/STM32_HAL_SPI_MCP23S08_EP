@@ -1,0 +1,9 @@
+../Core/Src/MCP23S08-EP.c:6:13:write_reg	24	static
+../Core/Src/MCP23S08-EP.c:15:13:MCP23S08_EP_Write_Reg	16	static
+../Core/Src/MCP23S08-EP.c:20:16:read_reg	24	static
+../Core/Src/MCP23S08-EP.c:42:17:MCP23S08_EP_Read_Reg	24	static
+../Core/Src/MCP23S08-EP.c:50:6:MCP23S08_EP_pinMode	24	static
+../Core/Src/MCP23S08-EP.c:74:6:MCP23S08_EP_PULL_UP_CONFIG	24	static
+../Core/Src/MCP23S08-EP.c:103:6:MCP23S08_WRITE_PIN	24	static
+../Core/Src/MCP23S08-EP.c:152:33:MCP23S08_EP_READ_PIN	24	static
+../Core/Src/MCP23S08-EP.c:172:19:MCP23S08_EP_Init	8	static
